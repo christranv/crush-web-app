@@ -3,8 +3,8 @@
 
 [![version](https://img.shields.io/badge/version-1.0-green.svg?style=flat-square)](https://semver.org)
 [![version](https://img.shields.io/badge/build-passing-green?style=flat-square)](https://semver.org)
-[![version](https://img.shields.io/badge/tomcat-v9.0.0-yellow?style=flat-square)](https://semver.org)
 [![version](https://img.shields.io/badge/JDK-v8.0-yellow?style=flat-square)](https://semver.org)
+[![version](https://img.shields.io/badge/tomcat-v9.0.0-yellow?style=flat-square)](https://semver.org)
 
 ##### 1. Login/Register
 ![](/docs/images/login.png)
