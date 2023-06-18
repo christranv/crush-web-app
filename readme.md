@@ -1,4 +1,4 @@
-# Crush Project
+# Crush Project: My pet project to help people finding their love (2019)
 > Bring FA Together.
 
 [![version](https://img.shields.io/badge/version-1.0-green.svg?style=flat-square)](https://semver.org)
